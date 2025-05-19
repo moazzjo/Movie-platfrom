@@ -4,8 +4,8 @@
 
 Tech Stack:
 
-- [Django](https://djangoproject.com) v5.1
-- [Python](https://python.org) v3.12 
+- [Django](https://djangoproject.com) 
+- [Python](https://python.org)
 - [javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 
@@ -54,4 +54,4 @@ Tech Stack:
         - movie_views
 
 
-# Note: This platform has been developed exclusively for educational and learning purposes. It is not intended to serve as a real-world movie streaming or distribution service. Kindly note that any use of this platform to host, share, or distribute actual movies is strongly discouraged and falls outside the intended scope of this project.
+## Note: This platform has been developed exclusively for educational and learning purposes. It is not intended to serve as a real-world movie streaming or distribution service. Kindly note that any use of this platform to host, share, or distribute actual movies is strongly discouraged and falls outside the intended scope of this project.
